@@ -8,8 +8,9 @@ trigger:
 
 pool:
   name: 'Anjal'
+  
 variables:
-  phpVersion: 8.1
+  phpVersion: 8.3
 
 steps:
 - script: |
