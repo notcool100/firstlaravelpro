@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  name: 'Anjal'
 
 variables:
   phpVersion: 8.3
